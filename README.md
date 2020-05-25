@@ -1,2 +1,2 @@
 # machine_learning
-Machine Learning by Andrew Ng
+Solutions for assignments of "machine learning" course by Andrew Ng. 
